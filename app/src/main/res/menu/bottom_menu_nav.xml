@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menuInfo"
+        android:title="@string/menu_info"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menuSearch"
+        android:title="@string/menu_search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/menuHelp"
+        android:title="@string/menu_help"
+        android:icon="@android:drawable/ic_menu_help"
+        app:showAsAction="ifRoom" />
+</menu>

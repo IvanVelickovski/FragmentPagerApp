@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentPagerApp</string>
+
+    <string name="hello_message_fragment">Hello %s</string>
+    <string name="go_in_inner_fragment">Go in inner fragment</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_help">Help</string>
+</resources>
